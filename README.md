@@ -1,6 +1,6 @@
 # Matrix Webcam
 
-Webcam effect in realtime using OpenCV Python.
+Realtime webcam effect in movie "The Matrix" using OpenCV Python.
 
 ![](result/result.png)
 
